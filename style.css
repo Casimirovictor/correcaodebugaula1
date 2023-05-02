@@ -1,0 +1,48 @@
+#planet {
+margin: auto;
+margin-left: 528px;
+}
+
+h1{
+  font-family: 'Dosis', sans-serif;
+  color: #3F3D56;
+  text-align: center;
+  font-size: 32px;
+}
+
+span {
+  color: #EE24FF;
+}
+
+strong{
+  font-weight: bold;
+  color: #3F3D56;
+  font-weight: 700;
+}
+
+p, #footerlink {
+font-family:'Open Sans';
+color: #828282;
+text-align: center;
+font-weight: 400;
+font-size: 15px;
+line-height: 22px;
+}
+
+#footerlink{
+  text-align: center;
+  margin-bottom: 40px;
+  
+}
+
+#line {
+  width: 568px;
+  height: 0;
+  margin: 60px auto 40px;
+  border: 1px solid #ECEFF2;
+}
+
+#footerimg {
+  margin-left: 214px;
+  bottom: 8px;
+}
