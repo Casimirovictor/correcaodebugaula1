@@ -14,7 +14,7 @@ span {
   color: #EE24FF;
 }
 
-strong{
+strong {
   font-weight: bold;
   color: #3F3D56;
   font-weight: 700;
@@ -29,16 +29,21 @@ font-size: 15px;
 line-height: 22px;
 }
 
+
+
 #footerlink{
+  width: 200px;
   text-align: center;
-  margin-bottom: 40px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
   
 }
 
 #line {
   width: 568px;
   height: 0;
-  margin: 60px auto 40px;
+  margin: 30px auto 30px;
   border: 1px solid #ECEFF2;
 }
 
